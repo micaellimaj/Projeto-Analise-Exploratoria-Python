@@ -61,5 +61,31 @@ O **4ª Conjunto de dados** possui os seguintes atributos:
 *   **Adultos(de 25 a 64 anos)**: Traz a porcantagem de valores de da população de adultos por país;
 *   **Idosos(a partir de 65 anos)**: Traz a porcentagem de valores da população idosa de acordo com o país.
 
+## Desenvolvimento
+
+Foram aplicadas diversas técnicas de análise de dados para o desenvolvimento desse projeto, como:
+
+* Importação, tratamento e manipulção de diferentes tipos de dados, como csv, json e excel.
+* Resolução de problemas nos dados, como valores faltantes ou em formato incorreto.
+* Separação dos dados para melhor visualização dos gráficos.
+* Utilização de diversas gráficos como o de barras, setores, linhas e área.
+* Uso de gráficos para análisar a dispersão dos valores, como gráfico de dispersão, box plot e mapa de calor.
+* Utilização de visualizações gráficas interativas.
+* Uso de mapas para mostrar os atributos referentes a cada país.
+* Geração de insights relevantes com a análise de diferentes gráficos.
+
+## Importações Python:
+
+```
+from IPython.display import Image, display
+import json
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import numpy as np
+import plotly.express as px
+```
+
+
 
 
