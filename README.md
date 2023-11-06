@@ -8,6 +8,10 @@ Os dados trabalhados nesse projeto podem ser encontrados nos seguintes links:
 3. Terceiro Conjunto de dados:  https://pt.wikipedia.org/wiki/Demografia_do_Brasi
 4. Quarto Conjunto de dados: https://pt.wikipedia.org/wiki/Demografia_do_Brasil;
 
+## Painel
+
+ Logo abaixo temos o link do relatório no power BI em que trabalhei com o 1ª, 2ª conjunto de dados e o conjunto de dados de imagens, que traz informações sobre todos os países e os países da América do Sul: https://bit.ly/Micael-Lima-Analista-de-dados-Relatorio-Populacao-Mundial
+
 ## Tecnologias utilizadas:
 
 * <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow1" alt="icon python" > 
