@@ -90,6 +90,12 @@ import numpy as np
 import plotly.express as px
 ```
 
+## Referências:
+
+* https://ebaconline.com.br/
+* https://plotly.com/graphing-libraries/
+* https://www.kaggle.com/
+
 
 
 
