@@ -1,11 +1,11 @@
 # Análise Exploratória de Dados Socioecionônicos da População Global
-Para a realização desse projeto foram utilizados diferentes conjuntos de dados. Podemos com os bancos de dados, gerar visualizações relevantes sobre o histórico de crescimento populacional, comparação entre os dados e entender como anda o funcionamento socioeconômico global, assim gerando conclusões interessantes a respeito dos dados. Além de utilizarmos técnicas de manipulação e tratamento dos dados para o formato ideal, que seria aquele em que podemo trabalhar e gerar bons resultados de acordo com o objetivo da análise. Nesse projeto, meu foco foi muito a parte visual e na geração de insights através da plotagem de diversos gráficos, com a realiação desse trabalho é possível notar que uma boa manipulação e tratamento dos dados faz toda diferenças no processo anterior a análise e geração de insights.
+Para a realização desse projeto foram utilizados diferentes conjuntos de dados. Podemos com os bancos de dados, gerar visualizações relevantes sobre o histórico de crescimento populacional, comparação entre os dados e entender como anda o funcionamento socioeconômico global, assim gerando conclusões interessantes a respeito dos dados. Além de utilizarmos técnicas de manipulação e tratamento dos dados para o formato ideal, que seria aquele em que podemo trabalhar e gerar bons resultados conforme o objetivo da análise. Nesse projeto, meu foco foi muito a parte visual e na geração de insights através da plotagem de diversos gráficos, com a realização desse trabalho é possível notar que uma boa manipulação e tratamento dos dados faz toda diferenças no processo anterior a análise e geração de insights.
 
 Os dados trabalhados nesse projeto podem ser encontrados nos seguintes links:
 
-1. Primeiro Conjunto de dados:  https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country
+1. Primeiro Conjunto de dados: https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country
 2. Segundo Conjunto de dados: https://www.dadosmundiais.com/america/index.php
-3. Terceiro Conjunto de dados:  https://pt.wikipedia.org/wiki/Demografia_do_Brasi
+3. Terceiro Conjunto de dados: https://pt.wikipedia.org/wiki/Demografia_do_Brasi
 4. Quarto Conjunto de dados: https://pt.wikipedia.org/wiki/Demografia_do_Brasil;
 
 ## Painel
@@ -69,11 +69,11 @@ O **4ª Conjunto de dados** possui os seguintes atributos:
 
 Foram aplicadas diversas técnicas de análise de dados para o desenvolvimento desse projeto, como:
 
-* Importação, tratamento e manipulção de diferentes tipos de dados, como csv, json e excel.
+* Importação, tratamento e manipulação de diferentes tipos de dados, como csv, json e excel.
 * Resolução de problemas nos dados, como valores faltantes ou em formato incorreto.
 * Separação dos dados para melhor visualização dos gráficos.
 * Utilização de diversas gráficos como o de barras, setores, linhas e área.
-* Uso de gráficos para análisar a dispersão dos valores, como gráfico de dispersão, box plot e mapa de calor.
+* Uso de gráficos para analisar a dispersão dos valores, como gráfico de dispersão, box plot e mapa de calor.
 * Utilização de visualizações gráficas interativas.
 * Uso de mapas para mostrar os atributos referentes a cada país.
 * Geração de insights relevantes com a análise de diferentes gráficos.
