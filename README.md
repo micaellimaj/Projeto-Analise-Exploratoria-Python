@@ -8,16 +8,16 @@ Os dados trabalhados nesse projeto podem ser encontrados nos seguintes links:
 3. Terceiro Conjunto de dados: https://pt.wikipedia.org/wiki/Demografia_do_Brasi
 4. Quarto Conjunto de dados: https://pt.wikipedia.org/wiki/Demografia_do_Brasil;
 
-## Painel
+### Painel
 
- Logo abaixo temos o link do relatório no power BI em que trabalhei com o 1ª, 2ª conjunto de dados e o conjunto de dados de imagens, que traz informações sobre todos os países e os países da América do Sul: https://bit.ly/Micael-Lima-Analista-de-dados-Relatorio-Populacao-Mundial
-
-## Tecnologias utilizadas:
+ Logo abaixo temos o link do relatório no power BI em que trabalhei com o 1ª, 2ª conjunto de dados e o conjunto de dados de imagens, que traz informações sobre todos os países e os países da América do Sul: https://bit.ly/MicaelLimaAnalistaDeDadosRelatorioPopulacao
+ 
+### Tecnologias utilizadas:
 
 * <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow1" alt="icon python" > 
 * <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="icon colab">
 
-## Atributos dos dados:
+### Atributos dos dados:
 
 O **1ª conjunto de dados** possui os seguintes atributos:
 
@@ -65,7 +65,7 @@ O **4ª Conjunto de dados** possui os seguintes atributos:
 *   **Adultos(de 25 a 64 anos)**: Traz a porcantagem de valores de da população de adultos por país;
 *   **Idosos(a partir de 65 anos)**: Traz a porcentagem de valores da população idosa de acordo com o país.
 
-## Desenvolvimento
+### Desenvolvimento
 
 Foram aplicadas diversas técnicas de análise de dados para o desenvolvimento desse projeto, como:
 
@@ -78,7 +78,7 @@ Foram aplicadas diversas técnicas de análise de dados para o desenvolvimento d
 * Uso de mapas para mostrar os atributos referentes a cada país.
 * Geração de insights relevantes com a análise de diferentes gráficos.
 
-## Importações Python:
+### Importações Python:
 
 ```
 from IPython.display import Image, display
@@ -90,7 +90,7 @@ import numpy as np
 import plotly.express as px
 ```
 
-## Referências:
+### Referências:
 
 * https://ebaconline.com.br/
 * https://plotly.com/graphing-libraries/
