@@ -94,9 +94,10 @@ import plotly.express as px
 
 ### Referências:
 
-* https://ebaconline.com.br/
-* https://plotly.com/graphing-libraries/
-* https://www.kaggle.com/
+✦ [ebac](https://ebaconline.com.br/) 
+✦ [ploty.com](https://plotly.com/graphing-libraries/)
+✦ [ebac](https://www.kaggle.com/) 
+
 
 
 
