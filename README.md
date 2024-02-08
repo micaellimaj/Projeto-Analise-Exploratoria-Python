@@ -14,8 +14,10 @@ Os dados trabalhados nesse projeto podem ser encontrados nos seguintes links:
  
 ### Tecnologias utilizadas:
 
-* <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow1" alt="icon python" > 
-* <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="icon colab">
+<div>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow1" alt="icon python" > 
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="icon colab">
+</div>
 
 ### Atributos dos dados:
 
@@ -92,9 +94,10 @@ import plotly.express as px
 
 ### Referências:
 
-* https://ebaconline.com.br/
-* https://plotly.com/graphing-libraries/
-* https://www.kaggle.com/
+✦ [ebac](https://ebaconline.com.br/) 
+✦ [ploty.com](https://plotly.com/graphing-libraries/)
+✦ [ebac](https://www.kaggle.com/) 
+
 
 
 
