@@ -93,6 +93,26 @@ import numpy as np
 import plotly.express as px
 ```
 
+### Organização do Repositório:
+------------
+
+
+   
+    ├── LICENSE
+    │
+    ├── README.md                 <- O Readme de nível superior para desenvolvedores que usam esse projeto.
+    │
+    ├── dashboard                 <- Contém o layout utilizado no relatório do power BI. 
+    │
+    ├── Personalização            <- Contém imagens utilizadas para deixar o caderno apresentável para o usuário.
+    │
+    ├── Relatórios                <- Coleção de capturas de tela sobre todo o processo de exploração de dados, além de gráficos no google colab.
+    │ 
+    ├── documentos                <- datasets utilizados no projeto.
+    │
+    └──notebook                   <- caderno jupyter notebook utilizado para contrução e apresentação do projeto.
+    
+
 ### Referências:
 
 ✦ [ebac](https://ebaconline.com.br/) 
